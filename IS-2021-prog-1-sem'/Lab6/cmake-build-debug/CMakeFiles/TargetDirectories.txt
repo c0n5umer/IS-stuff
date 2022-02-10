@@ -1,0 +1,3 @@
+D:/ITMO/IS-2021-prog-1-sem/Lab6/cmake-build-debug/CMakeFiles/Lab6.dir
+D:/ITMO/IS-2021-prog-1-sem/Lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ITMO/IS-2021-prog-1-sem/Lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

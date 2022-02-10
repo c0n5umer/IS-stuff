@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ITMO\IS-2021-algo-1-sem\Lab2\A\A\main.cpp(56,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  A.vcxproj -> D:\ITMO\IS-2021-algo-1-sem\Lab2\A\Debug\A.exe

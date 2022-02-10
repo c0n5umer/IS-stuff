@@ -1,0 +1,4 @@
+﻿  main.cpp
+  The contents of <string_view> are available only with C++17 or later.
+D:\ITMO\IS-2021-algo-1-sem\Lab2\E\E\main.cpp(42,58): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  E.vcxproj -> D:\ITMO\IS-2021-algo-1-sem\Lab2\E\Debug\E.exe

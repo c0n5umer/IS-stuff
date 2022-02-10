@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\ITMO\IS-2021-algo-1-sem\Lab2\B\B\main.cpp(77,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\ITMO\IS-2021-algo-1-sem\Lab2\B\B\main.cpp(89,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ITMO\IS-2021-algo-1-sem\Lab2\B\B\main.cpp(89,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  B.vcxproj -> D:\ITMO\IS-2021-algo-1-sem\Lab2\B\x64\Debug\B.exe

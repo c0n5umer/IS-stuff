@@ -1,0 +1,5 @@
+f = open('aplusbb.in', 'r')
+out = open('aplusbb.out', 'w')
+s = f.readline().split()
+out.write(str(int(s[0]) + int(s[1]) * int(s[1])))
+out.close()
